@@ -1,0 +1,8 @@
+platform :ios,’7.0’
+target 'AlbumShow' do
+
+pod 'SDWebImage'
+pod 'MBProgressHUD'
+pod 'UAProgressView'
+
+end
